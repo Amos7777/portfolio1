@@ -21,17 +21,17 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /portfolio
+logoURL: /YOUR_REPO_NAME
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /portfolio
-header-item2-link: /portfolio/about
-header-item3-link: /portfolio/blogs
-header-item4-link: /portfolio/projects
+header-item1-link:  /YOUR_REPO_NAME
+header-item2-link:  /YOUR_REPO_NAME/about
+header-item3-link: /YOUR_REPO_NAME/blogs 
+header-item4-link: / YOUR_REPO_NAME/projects
 cta-item2: Schedule a Meeting
-cta-item2-link: https://calendly.com/ayushsoni1010
+cta-item2-link: https://Twitter.com.
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -45,7 +45,7 @@ cta-item2-link: https://calendly.com/ayushsoni1010
 
 -- toast.stack: 
 title: Hello, I'm aspiring fastn developer based in India
-link: YOUR_GITHUB_HANLDE
+link: https://github.com/Amos7777
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -71,7 +71,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Amosh kohli,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -95,11 +95,11 @@ spacing.fixed.px: 10
 
 -- button.secondary: 
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:kohliamosh68@gmail.com
 
 -- button.primary: 
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: www.google.com
 isNewTab: true
 
 -- end: ftd.row
@@ -117,7 +117,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: YOUR_LINKEDIN_HANLDE
+link: https://www.linkedin.com/in/amos-kohli
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -129,11 +129,11 @@ link: YOUR_GITHUB_HANLDE
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: YOUR_INSTAGRAM_HANLDE
+link: 
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: YOUR-YOUTUBE_HANDLE
+link: www.youtube.com
 image: $assets.files.images.youtube.png
 
 -- social.social-button-wrapper:
